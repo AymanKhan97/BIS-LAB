@@ -58,6 +58,7 @@ gwo = GreyWolfOptimizer(cost_function, dim=2, population_size=30, max_iter=100, 
 
 best_position, best_cost = gwo.optimize()
 
+print("Ayman Khan- 1BM22CS062")
 print("Optimized Latency and Throughput:")
 print("Best Position (Latency, Throughput):", best_position)
 print("Best Cost (Objective Value):", best_cost)
