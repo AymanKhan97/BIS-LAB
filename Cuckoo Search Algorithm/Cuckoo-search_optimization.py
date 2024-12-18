@@ -65,3 +65,4 @@ if __name__ == "__main__":
     best_solution, best_fitness = cuckoo_search(num_traffic_lights)
     print("Best Solution:", best_solution)
     print("Best Fitness:", best_fitness)
+    print("Ayman Khan-1BM22CS062")

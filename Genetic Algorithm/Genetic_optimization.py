@@ -93,6 +93,6 @@ def genetic_algorithm():
     final_solution = max(population, key=objective_function)
     print("\nBest Solution Found:")
     print(f"x = {final_solution:.4f}, f(x) = {objective_function(final_solution):.4f}")
-
+    print("Ayman Khan-1BM22CS062")
 # Run the Genetic Algorithm
 genetic_algorithm()
